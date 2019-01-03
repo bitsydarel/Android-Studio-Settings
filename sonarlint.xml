@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="kotlin:S1186" />
         <option value="squid:CommentedOutCodeLine" />
         <option value="squid:S2095" />
       </set>
