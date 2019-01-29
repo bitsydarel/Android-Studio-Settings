@@ -1,0 +1,6 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+  </component>
+</application>
