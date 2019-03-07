@@ -1,0 +1,16 @@
+<application>
+  <component name="PluginSettings">
+    <MainToolWindow port="5554" panel="0" />
+    <StartEndPanel startLat="50.4057427" startLon="30.513971" endLat="48.4680567" endLon="35.0485562" steps="10" timeInterval="90" />
+    <PointListPanel timeInterval="5" loop="false" reverse="false">
+      <pointList>
+        <point lat="" lon="" />
+        <point lat="" lon="" />
+        <point lat="" lon="" />
+        <point lat="" lon="" />
+        <point lat="" lon="" />
+      </pointList>
+    </PointListPanel>
+    <singlePointEmulation lat="" lon="" />
+  </component>
+</application>
