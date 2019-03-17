@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="flutter" />
       <option name="PARAMETERS" value="run" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
