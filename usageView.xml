@@ -1,4 +1,7 @@
 <application>
+  <component name="ShowUsagesSettings">
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
+  </component>
   <component name="UsageViewSettings">
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
